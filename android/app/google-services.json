@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "676309070406",
+    "project_id": "spinxo124",
+    "storage_bucket": "spinxo124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676309070406:android:41f11bf235a9d2d4b61047",
+        "android_client_info": {
+          "package_name": "com.spinxoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676309070406-0gss7gtv76il43nvc3pju5vjqunamg89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spinxoproject",
+            "certificate_hash": "8ee320374103008d3ddac1ee5ee8736501195caf"
+          }
+        },
+        {
+          "client_id": "676309070406-npjscqrbjkm6fmkn38vnh32lvapbuq17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spinxoproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "676309070406-o18bl93m42bs8jhhf8suks2p00kpm4pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYyZ8ZXh8f5xmUq0hrHLn_sets6By_hQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676309070406-o18bl93m42bs8jhhf8suks2p00kpm4pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
